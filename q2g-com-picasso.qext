@@ -1,0 +1,11 @@
+{
+  "name": "q2g Picasso Component",
+  "description": "component to create picasso charts in widgets",
+  "type": "component",
+  "version": "0.0.1",
+  "author": "Thomas Hänig, Konrad Mattheis",
+  "license": "MIT",
+  "dependencies": {
+        "qlik-sense": ">=3.2.x"
+    }
+}
