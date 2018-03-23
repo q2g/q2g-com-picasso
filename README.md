@@ -5,7 +5,7 @@ This is a component, developed for the widget editor of Qlik Sense. The goal of 
 
 ## Intro
 
-![teaser](./docs/teaser.gif "Short teaser")
+![teaser](./docs/teaser.PNG "Short teaser")
 
 ## Example
 
