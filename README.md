@@ -87,6 +87,8 @@ console.log("CHART", chart);
 3. Qlik Sense Entripse
    Import in the QMC
 
+Make sure, that you have activate the new component in our widget
+
 ### source
 
 1. Clone the Github Repo into extension directory
