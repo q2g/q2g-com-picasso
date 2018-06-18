@@ -1,4 +1,5 @@
 # Picasso Widget Component
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6a7d3f94e2249c0b315e18cb51d8bf2)](https://app.codacy.com/app/konne/q2g-com-picasso?utm_source=github.com&utm_medium=referral&utm_content=q2g/q2g-com-picasso&utm_campaign=badger)
 [![Downloads](https://m.sense2go.net/downloads.svg?q2g-com-picasso)](https://m.sense2go.net/extension-package)
 
 This is a component, developed for the widget editor of Qlik Sense. The goal of this component is to enable developer to create their own Picasso.js charts in the Widget Editor. The huge advantage of this approach is, that you can easily user the property panes to customize styling of your picasso.js chart without the effort of building a complete extension.
