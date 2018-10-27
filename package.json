@@ -9,7 +9,7 @@
         "@types/qlik-engineapi": "12.67.6",
         "@types/qlik-visualizationextensions": "4.0.2",
         "@types/mocha": "5.2.5",
-        "@types/chai": "4.1.6",
+        "@types/chai": "4.1.7",
         "typescript": "2.9.2",
         "gulp": "3.9.1",
         "gulp-less": "3.5.0",
