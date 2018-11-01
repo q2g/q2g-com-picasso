@@ -10,7 +10,7 @@
         "@types/qlik-visualizationextensions": "4.0.2",
         "@types/mocha": "5.2.5",
         "@types/chai": "4.1.7",
-        "typescript": "3.1.4",
+        "typescript": "3.1.5",
         "gulp": "3.9.1",
         "gulp-less": "4.0.1",
         "chai": "4.2.0",
