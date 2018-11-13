@@ -17,7 +17,7 @@
         "mocha": "5.2.0"
     },
     "dependencies": {
-        "picasso.js": "0.16.0",
+        "picasso.js": "0.16.1",
         "picasso-plugin-q": "0.16.0"
     },
     "scripts": {
