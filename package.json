@@ -4,7 +4,7 @@
     "license": "MIT",
     "description": "component to create picasso charts in widgets",
     "devDependencies": {
-        "@types/angular": "1.6.52",
+        "@types/angular": "1.6.55",
         "@types/jquery": "3.3.22",
         "@types/qlik-engineapi": "12.67.6",
         "@types/qlik-visualizationextensions": "4.0.2",
