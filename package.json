@@ -8,13 +8,13 @@
         "@types/jquery": "3.3.22",
         "@types/qlik-engineapi": "12.67.6",
         "@types/qlik-visualizationextensions": "4.0.2",
-        "@types/mocha": "5.2.5",
+        "@types/mocha": "8.2.2",
         "@types/chai": "4.1.7",
         "typescript": "3.2.1",
         "gulp": "3.9.1",
         "gulp-less": "4.0.1",
         "chai": "4.2.0",
-        "mocha": "5.2.0"
+        "mocha": "8.4.0"
     },
     "dependencies": {
         "picasso.js": "0.16.1",
