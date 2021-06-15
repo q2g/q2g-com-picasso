@@ -17,8 +17,8 @@
         "mocha": "5.2.0"
     },
     "dependencies": {
-        "picasso.js": "0.16.1",
-        "picasso-plugin-q": "0.16.1"
+        "picasso.js": "1.2.1",
+        "picasso-plugin-q": "1.2.1"
     },
     "scripts": {
         "build": "tsc -p tsconfig.json && gulp less",
