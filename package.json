@@ -7,7 +7,7 @@
         "@types/angular": "1.6.52",
         "@types/jquery": "3.3.22",
         "@types/qlik-engineapi": "12.67.6",
-        "@types/qlik-visualizationextensions": "4.0.2",
+        "@types/qlik-visualizationextensions": "4.0.6",
         "@types/mocha": "5.2.5",
         "@types/chai": "4.1.7",
         "typescript": "3.2.1",
